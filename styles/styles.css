@@ -1,0 +1,26 @@
+* {
+    font-family: "Arial, sans-serif";
+    border:none;
+}
+body {
+    margin: 20px;
+    padding: 10px;
+}
+h1 {
+    color: #1a73e8;
+}
+input {
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+}
+button {
+    padding: 7px 10px;
+    background-color: #4caf50;
+    border-radius: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#mensaje2 {
+    border-color: #1a73e8;
+    background-color: #f0f8ff;
+}
